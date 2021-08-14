@@ -108,8 +108,59 @@
 这种观点确实非常的**泛神论**，想到之前读到的《泛神论要义》提到，宇宙作为一个整体是永恒的、不变的、统一的，
 而宇宙的不同部分是不断变化的、相互冲突的。
 
-## * 扩展阅读
+### 巴门尼德（公元前515 - 公元前445）
+
+巴门尼德的思想是写在他的一分诗歌中的，诗歌被分成三个部分：序文，真理之路，意见之路。
+
+巴门尼德最重要的一个思想叫：paradox of negative existentials。
+（我不知道怎么翻译，可说是存在之否定悖论吧）
+
+他说，我们不能说某个东西是不存在的，因为：当我们想到一个东西时，它必须首先是存在于我们这个语境之外的，
+我们无法讨论一个不存在的东西。而我们说某物不存在，就是在否定我们这句话的前提，即某物是存在的。
+这里并不是在说我们不能讨论不能存在的事物，比如说当我们说“独角兽”的时候，独角兽显然是不存在的，
+但“独角兽”这个概念或者这个想法是存在的，这个概念和想法本身是存在于我们的语境之外，所以我们可以讨论它。
+这里是在说我们不能形成“不存在”这个概念，因为但我们思考的时候，我们必须思考一个已经存在的东西，
+但“不存在”意味着这个思考的对象都是不存在的，所以我们不可能产生这样一种思考。
+或者说我们无法从“不存在”中产生任何的存在。
+（我看不懂，但我大受震撼）
+
+因此世界上一切变化都是不存在的，因为变化要么意味着一个物体从不存在到存在，但这样一个过程是不可能发生的；
+要么意味着物体从一个地方到另一个地方，但这意味着物体要从他本来在的地方到一个本来没有任何东西的空间，
+也就是到“不存在”的地方，但我们已经说了这里没有“不存在”的概念，所以这样的一个过程也是不可能的。
+因此整个世界只存在着唯一一个永恒且不变的东西，所有的一切事物都是这个东西。
+他通过这一点来反对赫拉克利特的流变学说，以及米利都学派认为事物是由不确定的无限性者（原初物质）组成的。
+
+但这就造成了一个有趣的冲突：我们的逻辑和我们的经验是相当矛盾的。
+我们感受到，我们生活的这个世界是充满不同的物质和变化的；
+但我们的逻辑又告诉我们，宇宙只有一个永恒不变的事物。
+对此，巴门尼德说，这是由于我们的感官和经验是不可靠的，我们的感官欺骗了我们。（听着像不像……柏拉图）
+反而，我们应该依靠我们的逻辑，因为这是“真理之路”，因此我们应该拒绝一切存在之否定悖论的表达。
+巴门尼德要求我们区分常识和真实，而且当两者出现冲突时，我们应该坚持真实而非我们的常识。
+
+（学到这里我觉得：要么是他疯了，要么是我疯了。但是，等等，我们现代所说的空间，真的是“虚无”吗？
+什么都不存在的虚无，真的存在吗？我决定不仔细思考这个问题。）
+
+不过巴门尼德的观点，给柏拉图思想的形成产生了很大的影响。
+巴门尼德还有一个在我们看来，更加有名的学生，叫芝诺。
+
+## 1.? 研究问题
+
+1. > 早期的希腊哲学家被认为推进了最早的一些超越宗教神话的关于自然和宇宙的理论。
+   > 对世界做出非神话性质的解释有什么好处（如果有好处的话？）
+
+## 1.* 扩展阅读
 
 [1] [Presocratic Philosophy | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/presocratics/)
+
 [2] [Pythagoreanism | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/pythagoreanism/)
+
 [3] [Heraclitus | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heraclitus/)
+
+[4] [Parmenides | Wikipedia](https://en.wikipedia.org/wiki/Parmenides)
+
+[5] [Parmenides | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/parmenides/)
+
+[6] [Nonexistent Objects | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nonexistent-objects/)
+
+[7] [Parmenides - Foxwede History | Youtube](https://www.youtube.com/watch?v=MbDW1836TXg)
+[8] [Introduction to Parmenides - Academy of Ideas | Youtube](https://www.youtube.com/watch?v=rCpC2FcDsbU)
