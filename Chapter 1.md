@@ -1,4 +1,6 @@
-# Chapter 1 前苏格拉底前辈
+# 第一章 前苏格拉底前辈
+
+[TOC]
 
 ## 1.1 什么东西永恒存在？（公元前624 - 公元前525）
 
@@ -180,12 +182,66 @@ $$
 
 ##### 飞矢不动
 
+芝诺的飞矢悖论也是非常的有名，这个悖论的陈述是这样的：
+射出去的飞矢在他“运动”的每一个时刻都占据了一个等于他长度本身的位置，而一个物体在一个时刻占据等于它本身的位置说明这个物体是不动的，所以一个运动的飞矢在这个过程中的任何时刻都是不动的。所以飞矢其实没有动，运动只是一种错觉。
+
+亚里士多德对这个悖论的反驳是，芝诺错误的将时间分成了许多不可再分的时刻（离散的时间）。
+
+更加现代的解释，则使用了微积分等知识[10]，现代对速度的定义，其实是路程关于时间的微分。在Zeno本来的陈述中，他假设时刻是极小值，而在这个极小值中是没有运动的，其实这是错误的假设了$\frac 00 = 0$，或者认为$\frac 00$是未定义的。
+不过实际上我们知道，速度的定义其实是
+$$
+v =\lim_{\Delta t\to 0} \frac {\Delta S}{\Delta t}
+$$
+这确实是个$\frac 00$型的极限，但现代数学说，这种极限其实是良好定义的，而且在运动这种情况，有极限存在且极限不一定为零。不过这里并不想详细解释数学原理，忘记了应该回去重修数学分析1.
+
+同时现代物理学也给出了解释。现代物理学也认为在任何一个时刻，物体都是不动的，但在这个时刻，物体仍然有速度（瞬时速度），因为在这个时刻之后，物体会占有一个不同的位置。物体的运动不应该只靠一个时刻来定义，还应该考虑这个时刻之前和之后的时刻，运动是反映这种变化的。
+
+在[12]里有一个使用了逻辑学的解释。这个解释认为，芝诺是混用了时刻和间隔。
+他把芝诺的解释写成三段论的形式：
+
+1. 当飞矢只占有和它本身相等的空间，飞矢是不动的。
+2. 在任意时候，飞矢都只占有和它本身相等的空间。
+3. 所以在这个运动过程中的任何时候，飞矢都是不动的。
+
+这个解释说，1. 2. 混用了时刻和间隔。如果我们让1. 2.中的表示相一致，就会发现：
+
+A情况：
+
+1. 在某个时刻，如果飞矢只占有和他本身相等的空间，飞矢是不动的。（错误）
+2. 在运动过程中的任何时刻，飞矢都只占有和他本身相等的空间。（正确）
+
+B情况：
+
+1. 在某个间隔，如果飞矢只占有和他本身相等的空间，飞矢是不动的。（正确）
+2. 在运动过程中的任何间隔，飞矢都只占有和他本身相等的空间。（错误）
+
+发现不论是使用时刻，还是使用间隔，这个论证都是不可靠的，因为前提是错误的。（这个前提的判断，似乎用到了上面的物理学解释）
+而如果混用两个正确的前提，其实是并不能推出任何结论的。
+
+##### 运动的相对性
+
+#### 其他的悖论
+
+##### 谷堆
+
+##### 位置的悖论
+
+### 恩培多克勒
+
+### 阿那克萨格拉
+
+## 1.4 原子论者
+
+### 原子和虚空
+
+### 知识论和伦理学
+
 ## 1.? 研究问题
 
 1. > 早期的希腊哲学家被认为推进了最早的一些超越宗教神话的关于自然和宇宙的理论。
    > 对世界做出非神话性质的解释有什么好处（如果有好处的话？）
 
-## 1.* 扩展阅读
+## 1.* 扩展阅读（参考资料）
 
 [1] [Presocratic Philosophy | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/presocratics/)
 [2] [Pythagoreanism | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/pythagoreanism/)
@@ -196,5 +252,6 @@ $$
 [7] [Parmenides - Foxwede History | Youtube](https://www.youtube.com/watch?v=MbDW1836TXg)
 [8] [Introduction to Parmenides - Academy of Ideas | Youtube](https://www.youtube.com/watch?v=rCpC2FcDsbU)
 [9] [Zeno of Elea |  Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/zeno-elea/)
-[10] [Zeno’s Paradoxes | Internet Encyclopedia of Philosophy](https://iep.utm.edu/zeno-par/#SSH3bii)
+[10] [Zeno’s Paradoxes | Internet Encyclopedia of Philosophy](https://iep.utm.edu/zeno-par)
 [11] [Zeno against plurality | University of Washington](https://faculty.washington.edu/smcohen/320/zeno2.htm)
+[12] [Zeno's Paradox of the Arrow | University of Washington](https://faculty.washington.edu/smcohen/320/ZenoArrow.html)
