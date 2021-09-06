@@ -239,9 +239,19 @@ B情况：
 这个悖论是这样的。如果说这个东西在这个地方，那么一定要有另外一个地方让“这个地方”存在，这个过程可以不断重复下去。
 对于这个悖论，一般的解释是“地方”并不需要存在于另外一个“地方”，“地方”只是一个参照系的记号。但因为当时的人们相信“地方”存在于另外一个地方，而芝诺指出这是个错误的假设。
 
-### 恩培多克勒
+### 恩培多克勒（公元前490-公元前430）
 
-### 阿那克萨格拉
+恩培多克勒关于存在和变化的观点手综合了赫拉克利特和巴门尼德两者的。在存在一方面，他肯定巴门尼德的存在是永恒的、不可毁灭的，但和巴门尼德不同的是，他认为存在不是“一”而是“多”。
+在这种情况下，他通过这样的一种方式来肯定变化的存在：他认为物体能够变化，是因为物体是由更小单位的“根基（root）”组成，而根基是不变的。恩培多克勒同时吸取了米利都学派的一些观点，认为这些根基是土、气、火、水四种基本元素，这些元素之间是不能互相转化的，而他们以不同的方式混合、组合在一起就成为了我们感知到的物体。
+原文是这样写的：
+> Hear first of all the four roots of all things:
+> Zeus the gleaming, Hera who gives life, Aidoneus,
+> And Nêstis, who moistens with her tears the mortal fountain.
+注意这里四种根基所用的全部都是神的名字，表示这些根基可能有这内在的动力，而非完全静止的物质。
+
+他还对这种变化的原因作了解释，他认为自然界中存在两种力：爱和恨，或者和谐和争执。爱使得元素互相吸引，组合在一起，形成事物，恨的力量导致事物解体。同时恩培多克勒相信，自然中有爱与冲突的循环。首先，爱出现了，恨还没有，不同的根基在爱的力量的作用下混合在一起，组成事物，事物处于和谐发展。然后，恨的力量开始出现并且逐渐占据主导位置，根基开始分离，直到最后所有的根基完全分离，各自归位四组，准备开始新的循环。
+
+### 阿那克萨格拉（公元前500年-公元前428年）
 
 ## 1.4 原子论者
 
@@ -268,3 +278,4 @@ B情况：
 [10] [Zeno’s Paradoxes | Internet Encyclopedia of Philosophy](https://iep.utm.edu/zeno-par)
 [11] [Zeno against plurality | University of Washington](https://faculty.washington.edu/smcohen/320/zeno2.htm)
 [12] [Zeno's Paradox of the Arrow | University of Washington](https://faculty.washington.edu/smcohen/320/ZenoArrow.html)
+[13] [Empedocles | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/empedocles/)
